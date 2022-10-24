@@ -1,0 +1,1 @@
+the ruby version must link to the sinatra 
