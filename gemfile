@@ -3,7 +3,7 @@ source "https://rubygems.org/"
 ruby '3.0.2'
 gem 'sinatra'
 gem 'rack'
-gem 'shotgun'
+gem 'shotgun',git: 'https://github.com/jerryfarwell/sinatra_project'
 gem 'pry'
 gem 'csv'
 gem 'puma'
